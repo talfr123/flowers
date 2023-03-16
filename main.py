@@ -1,2 +1,1 @@
-print("hello")
-print("tal&perry")
+print("hello aviv")
